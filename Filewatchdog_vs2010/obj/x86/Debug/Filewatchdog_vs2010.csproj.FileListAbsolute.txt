@@ -1,0 +1,9 @@
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\bin\Debug\Filewatchdog_vs2010.exe.config
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\bin\Debug\Filewatchdog_vs2010.exe
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\bin\Debug\Filewatchdog_vs2010.pdb
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\obj\x86\Debug\Filewatchdog_vs2010.exe
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\obj\x86\Debug\Filewatchdog_vs2010.pdb
+F:\learn\C#\Filewatchdog_vs2010\Filewatchdog_vs2010\obj\x86\Debug\Filewatchdog_vs2010.csprojResolveAssemblyReference.cache
+F:\learn\C#\1_Filewatchdog_vs2010\Filewatchdog_vs2010\bin\Debug\Filewatchdog_vs2010.exe.config
+F:\learn\C#\1_Filewatchdog_vs2010\Filewatchdog_vs2010\obj\x86\Debug\Filewatchdog_vs2010.exe
+F:\learn\C#\1_Filewatchdog_vs2010\Filewatchdog_vs2010\obj\x86\Debug\Filewatchdog_vs2010.pdb
